@@ -1,2 +1,2 @@
-#minor update
+#COLBY SOULE, WA STATE, BACK END DEV
  repo-exercise
